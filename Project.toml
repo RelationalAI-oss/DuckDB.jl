@@ -1,0 +1,7 @@
+name = "DuckDB"
+uuid = "271224a5-5873-4e34-9570-fc51b93a96df"
+authors = []
+version = "0.0.0"
+
+[deps]
+BinaryProvider = "b99e7846-7c00-51b0-8f62-c81ae34c0232"
